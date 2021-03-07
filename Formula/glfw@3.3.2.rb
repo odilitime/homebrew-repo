@@ -1,4 +1,4 @@
-class Glfw < Formula
+class GlfwAT332 < Formula
   desc "Multi-platform library for OpenGL applications"
   homepage "https://www.glfw.org/"
   url "https://github.com/glfw/glfw/archive/3.3.2.tar.gz"
